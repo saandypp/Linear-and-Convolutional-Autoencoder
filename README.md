@@ -1,6 +1,6 @@
 # Linear-and-Convolutional-Autoencoder
 
-Linear autoencoder and convolutional autoencoder implemented using Keras library.<br><br>
+Linear autoencoder and convolutional autoencoder implemented with Keras library.<br><br>
 
 Autoencoders are mostly used for
 <ul>
